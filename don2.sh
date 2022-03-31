@@ -1,3 +1,0 @@
-ithis ia sand
-:wq
-
